@@ -1,0 +1,11 @@
+.navbarContainer {
+    width: 100%;
+    background-color: grey;
+    height: 50px;
+    padding: 20px;
+}
+
+
+.navBarItem {
+    margin-right: 5px;
+}
