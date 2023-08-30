@@ -1,0 +1,25 @@
+.button {
+    width: 150px;
+    position: absolute;
+    top: 375px;
+    left: 770px;
+    height: 40px;
+    font-size: 1.3rem;
+   color: antiquewhite;
+    font-weight: 700;
+    background: rgb(34,193,195);
+    border: 0px;
+    cursor: pointer;
+    transition: opacity 0.25s ease-out;
+    background: linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%);
+}
+
+.button:hover{
+    opacity: 0.8;
+}
+
+.registerTitle:hover{
+    color: rgb(102, 0, 0) !important;
+}
+
+

@@ -1,0 +1,9 @@
+.Addtask{
+    margin-top: 20px;
+    color: aquamarine;
+   background:linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%);
+}
+
+.Addtask:hover {
+    opacity: 0.8;
+}

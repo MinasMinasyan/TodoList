@@ -1,0 +1,38 @@
+.navbarContainer {
+    width: 100%;
+    background: linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%);
+    height: 50px;
+    padding: 20px;
+    position: fixed !important;
+    z-index: 9999;
+    border: 1px solid black;
+}
+
+
+.navBarItem {
+    margin-left: 10px;
+    text-decoration: none;
+    color: black !important;
+}
+
+.navBarItem:hover {
+    color: blue !important;
+}
+
+
+.signIn{
+    width: 150px;
+    color:aliceblue !important;
+    background: linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%) !important;
+    text-decoration: none;
+    
+}
+
+.signIn:hover{
+    color: blue !important;
+    opacity: 0.8;
+}
+.signInLink {
+    text-decoration: none;
+}
+

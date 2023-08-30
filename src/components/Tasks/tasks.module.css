@@ -1,0 +1,32 @@
+.tasksContainer {
+  border: 2px solid grey;
+  border-radius: 5px;
+  background-color: aqua;
+  padding: 20px;
+  margin: 20px 20px;
+  color: red;
+}
+
+
+.cardCeckbox {
+  width: 30px;
+  height: 30px;
+}
+
+.card {
+  margin-bottom: 10px;
+  background: linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%);
+}
+
+.checkedTaskCard {
+  border: 2px solid red !important;
+}
+
+.cardTitle:hover{
+ color: rgb(102, 0, 0) !important;
+}
+
+.impDev {
+  background: linear-gradient(100deg, rgba(34,193,195,1) 0%,rgba(253,187,45,1) 100%,rgb(177, 146, 78) 25%,rgb(75, 58, 20) 50%);
+  border: var(--bs-list-group-border-width) solid #bfa930;
+}
